@@ -1,0 +1,8 @@
+{
+   "databaseChangeLog": [
+       {
+           "includeAll": {"path": "classpath:/db/changesets/"},
+
+       }
+   ]
+}
